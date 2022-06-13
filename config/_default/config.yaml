@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Grupo de Electronica Aplicada # Website name
-baseURL: 'https://gea.ing.unrc.edu.ar' # Website URL
+title: 'Grupo de Electronica Aplicada' # Website name
+baseURL: 'http://gea.ing.unrc.edu.ar' # Website URL
 
 ############################
 ## LANGUAGE
