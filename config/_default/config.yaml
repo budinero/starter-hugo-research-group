@@ -10,7 +10,7 @@ baseURL: 'http://gea.ing.unrc.edu.ar' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: es
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
